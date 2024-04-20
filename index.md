@@ -1,7 +1,9 @@
 ---
-layout: pages
+layout: default
 title: Danielle Hanna
 ---
+
+Hello.
 
 <ul>
   {% for post in site.posts %}
