@@ -1,5 +1,5 @@
 layout: pages
 title: Resume
-permalin: /resume
+permalink: /resume
 
 I am dani and I have done things.
